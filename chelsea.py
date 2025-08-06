@@ -1,6 +1,4 @@
 """
-Perfect — that confirms everything! Your 'table' column contains a list of team dictionaries for each season, and Chelsea is one of them. Now you’re ready to extract Chelsea’s stats across all seasons.
-Here’s a complete and corrected script that will:
 - Extract Chelsea’s data from each season
 - Add the season to each row
 - Convert stats to numeric
